@@ -1,0 +1,152 @@
+{
+    "mp_0008": {
+        "suv": "20240221/SUV.nii.gz",
+        "ct": "20240221/CT.nii.gz",
+        "t2": "20231204/T2_TSE_3mm_tra_401.nii.gz",
+        "adc": "20231204/dADC_Map_502.nii.gz",
+        "t1": "20231204/T1_TSE_5mm_301.nii.gz",
+        "ddf": "20231204/dense_displacement_field_bspline.mha",
+        "ttp": "20231204/mp_0008_ttp.nii.gz",
+        "inr": "20231204/param_img_mp0008.nii.gz"
+    },
+    "mp_0032":{
+        "suv": "20220404/SUV.nii.gz",
+        "ct": "20220404/CT.nii.gz",
+        "t2": "20211027/t2_tse_tra_5001.nii.gz",
+        "adc": "20211027/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+        "t1": "20211027/t1_tse_tra_9001.nii.gz",
+        "ddf": "../../registration_output/mp_0032/dense_displacement_field_bspline.mha",
+        "ttp": "20211027/mp_0032_ttp.nii.gz",
+        "inr": "20211027/param_img_mp0032.nii.gz"
+    },
+    "mp_0038":{
+            "suv": "20231024/SUV.nii.gz",
+            "ct": "20231024/CT.nii.gz",
+            "t2": "20230816/t2_tse_tra_5001.nii.gz",
+            "adc": "20230816/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20230816/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0038/dense_displacement_field_bspline.mha",
+            "ttp": "20230816/mp_0038_ttp.nii.gz",
+            "inr": "20230816/param_img_mp0038.nii.gz"
+        },
+    "mp_0047":{
+            "suv": "20201211/SUV.nii.gz",
+            "ct": "20201211/CT.nii.gz",
+            "t2": "20200813/t2_tse_tra_5001.nii.gz",
+            "adc": "20200813/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20200813/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0047/dense_displacement_field_bspline.mha",
+            "ttp": "20200813/mp_0047_ttp.nii.gz",
+            "inr": "20200813/param_img_mp0047.nii.gz"
+        },
+    "mp_0057":{
+            "suv": "20230613/SUV.nii.gz",
+            "ct": "20230613/CT.nii.gz",
+            "t2": "20230418/t2_tse_tra_5001.nii.gz",
+            "adc": "20230418/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20230418/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0057/dense_displacement_field_bspline.mha",
+            "ttp": "20230418/mp_0057_ttp.nii.gz",
+            "inr": "20230418/param_img_mp0057.nii.gz"
+        },
+    "mp_0058":{
+            "suv": "20220627/SUV.nii.gz",
+            "ct": "20220627/CT.nii.gz",
+            "t2": "20211105/t2_tse_tra_5001.nii.gz",
+            "adc": "20211105/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20211105/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0058/dense_displacement_field_bspline.mha",
+            "ttp": "20211105/mp_0058_ttp.nii.gz",
+            "inr": "20211105/param_img_mp0058.nii.gz"
+        },
+    "mp_0064":{
+            "suv": "20231113/SUV.nii.gz",
+            "ct": "20231113/CT.nii.gz",
+            "t2": "20230719/t2_tse_tra_5001.nii.gz",
+            "adc": "20230719/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20230719/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0064/dense_displacement_field_bspline.mha",
+            "ttp": "20230719/mp_0064_ttp.nii.gz",
+            "inr": "20230719/param_img_mp0064.nii.gz"
+        },
+    "mp_0065":{
+            "suv": "20230613/SUV.nii.gz",
+            "ct": "20230613/CT.nii.gz",
+            "t2": "20221214/t2_tse_tra_5001.nii.gz",
+            "adc": "20221214/ep2d_diff_0_50_1000_1400calc_ADC_7001.nii.gz",
+            "t1": "20221214/t1_tse_tra_9001.nii.gz",
+            "ddf": "../../registration_output/mp_0065/dense_displacement_field_bspline.mha",
+            "ttp": "20221214/mp_0065_ttp.nii.gz",
+            "inr": "20221214/param_img_mp0065.nii.gz"
+        },
+    "mp_0080":{
+            "suv": "20210422/SUV.nii.gz",
+            "ct": "20210422/CT.nii.gz",
+            "t2": "20221031/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20221031/dADC_Map_602.nii.gz",
+            "t1": "20221031/T1_TSE_5mm_501.nii.gz",
+            "ddf": "../../registration_output/mp_0080/dense_displacement_field_bspline.mha",
+            "ttp": "20221031/mp_0080_ttp.nii.gz",
+            "inr": "20221031/param_img_mp0080.nii.gz"
+        },
+    "mp_0096":{
+            "suv": "20240506/SUV.nii.gz",
+            "ct": "20240506/CT.nii.gz",
+            "t2": "20240228/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20240228/dADC_Map_502.nii.gz",
+            "t1": "20240228/T1_TSE_5mm_301.nii.gz",
+            "ddf": "../../registration_output/mp_0096/dense_displacement_field_bspline.mha",
+            "ttp": "20240228/mp_0096_ttp.nii.gz",
+            "inr": "20240228/param_img_mp0096.nii.gz"
+        },
+    "mp_0099":{
+            "suv": "20240805/SUV.nii.gz",
+            "ct": "20240805/CT.nii.gz",
+            "t2": "20240124/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20240124/dADC_Map_502.nii.gz",
+            "t1": "20240124/T1_TSE_5mm_301.nii.gz",
+            "ddf": "../../registration_output/mp_0099/dense_displacement_field_bspline.mha",
+            "ttp": "20240124/mp_0099_ttp.nii.gz",
+            "inr": "20240124/param_img_mp0099.nii.gz"
+        },
+    "mp_0100":{
+            "suv": "20220913/SUV.nii.gz",
+            "ct": "20220913/CT.nii.gz",
+            "t2": "20220708/t2_tse_tra_384_Biopsieplanung_4.nii.gz",
+            "adc": "20220708/ep2d_diff_tra_b50-500-1000_zus._Sattiger_ADC_DFC_MIX_6.nii.gz",
+            "t1": "20220708/t1_tse_tra_p2_10.nii.gz",
+            "ddf": "../../registration_output/mp_0100/dense_displacement_field_bspline.mha",
+            "ttp": "20220708/mp_0100_ttp.nii.gz",
+            "inr": "20220708/param_img_mp0100.nii.gz"
+        },
+    "mp_0106":{
+            "suv": "20240216/SUV.nii.gz",
+            "ct": "20240216/CT.nii.gz",
+            "t2": "20231204/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20231204/dADC_Map_502.nii.gz",
+            "t1": "20231204/T1_TSE_5mm_301.nii.gz",
+            "ddf": "../../registration_output/mp_0106/dense_displacement_field_bspline.mha",
+            "ttp": "20231204/mp_0106_ttp.nii.gz",
+            "inr": "20231204/param_img_mp0106.nii.gz"
+        },
+    "mp_0112":{
+            "suv": "20240212/SUV.nii.gz",
+            "ct": "20240212/CT.nii.gz",
+            "t2": "20231113/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20231113/dADC_Map_502.nii.gz",
+            "t1": "20231113/T1_TSE_5mm_301.nii.gz",
+            "ddf": "../../registration_output/mp_0112/dense_displacement_field_bspline.mha",
+            "ttp": "20231113/mp_0112_ttp.nii.gz",
+            "inr": "20231113/param_img_mp0112.nii.gz"
+        },
+    "mp_0113":{
+            "suv": "20211105/SUV.nii.gz",
+            "ct": "20211105/CT.nii.gz",
+            "t2": "20210803/T2_TSE_3mm_tra_401.nii.gz",
+            "adc": "20210803/dADC_Map_502.nii.gz",
+            "t1": "20210803/T1_TSE_5mm_301.nii.gz",
+            "ddf": "../../registration_output/mp_0113/dense_displacement_field_bspline.mha",
+            "ttp": "20210803/mp_0113_ttp.nii.gz",
+            "inr": "20210803/param_img_mp0113.nii.gz"
+        }
+}

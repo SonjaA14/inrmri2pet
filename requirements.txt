@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+pandas
+pytorch-lightning
+wandb
+SimpleITK
+nibabel
+scipy
